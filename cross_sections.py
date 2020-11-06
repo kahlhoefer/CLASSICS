@@ -1,5 +1,5 @@
 #####################################################################################
-#   Cross sections for dark matter self-interactions in the semi-classical regime   #
+#            CLASSICS - CalcuLAtionS of Self Interaction Cross Sections             #
 # by Brian Colquhoun, Saniya Heeba, Felix Kahlhoefer, Laura Sagunski and Sean Tulin #
 #####################################################################################
 # Requirements: python3, numpy, scipy
@@ -25,7 +25,7 @@
 #            If no sign is specified, the default option is 'attractive'
 #
 # sigma_Hulthen(kappa, beta, mode, sign, eps):
-#   Returns approximate analytical cross sections for the quantum regime (kappa < 1).
+#   Returns approximate analytical cross sections for the quantum regime (kappa < 1) for S-wave-only scattering under the Hulthen approximation, following Tulin, Yu & Zurek (arXiv:1302.3898)
 #   The arguments are the same as above, with the addition of
 #   eps:     Numerical constant with default value 1.6.
 #

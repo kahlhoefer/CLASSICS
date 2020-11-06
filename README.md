@@ -2,7 +2,7 @@
 **CalcuLAtionS of Self Interaction Cross Sections**
 
 This code provides analytical expressions and tabulated values for the self-scattering cross sections of dark matter particles interacting via a Yukawa potential. For details, see 
-B. Colquhoun, S. Heeba, F. Kahlhoefer, L. Sagunski and S. Tulin, *The Semi-Classical Regime for Dark Matter Self-Interactions*, [arXiv:2011.XXXXX](https://arxiv.org/abs/2011.XXXXX).
+B. Colquhoun, S. Heeba, F. Kahlhoefer, L. Sagunski and S. Tulin, *The Semi-Classical Regime for Dark Matter Self-Interactions*, [arXiv:2011.XXXXX](https://arxiv.org/abs/2011.XXXXX). 
 
 File format:
 * Column 1: beta_0
