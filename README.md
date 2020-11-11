@@ -9,7 +9,7 @@ For the Hulthen approximation, used to calculate the S-wave scattering cross sec
 
 For example usage, see *cross_sections.py*.
 
-The tabulated values are provided in the following format (following the notation from [arXiv:2011.XXXXX](https://arxiv.org/abs/2011.XXXXX)):
+The tabulated values are provided in the following format (following the notation from [arXiv:2011.04679](https://arxiv.org/abs/2011.04679)):
 * Column 1: beta_0
 * Column 2: kappa_0
 * Column 3: m_phi^2/pi * sigma_X^Y, where
