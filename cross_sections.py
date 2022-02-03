@@ -95,7 +95,7 @@ def sigmaVrep(beta, kappa, lmin):
 
 modes = ['T','V','even','odd','scalar','fermion','vector']
 signs = ['attractive','repulsive']
-mode_factor = {'T': 1, 'V': 1, 'even': 2, 'odd': 0, 'scalar': 2, 'fermion': 0.5, 'vector': 4/3.}
+mode_factor = {'T': 1, 'V': 2/3., 'even': 4/3., 'odd': 0, 'scalar': 4/3., 'fermion': 1/3., 'vector': 8/9.}
 
 beta0grid = np.logspace(-5,5, 101, endpoint=True)
 kappa0grid = np.logspace(-3,3, 61, endpoint=True)
